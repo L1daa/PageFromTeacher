@@ -1,0 +1,56 @@
+Body {
+    background-color: rgb(233, 245, 255);
+}
+.div1 {
+    background-color: rgb(248, 255, 255);
+    width: 400px;
+    height: 460px;
+
+    margin-top: 30px;
+    border-radius: 25px;
+    box-shadow: 0 0px 25px rgb(164, 188, 255);
+
+}
+.img1{
+    position: absolute;
+    left: 350px;
+    top: 40px;
+}
+.img2 {
+    position: absolute;
+    left: 590px;
+    top: 240px;
+}
+.i1 {
+    position: absolute;
+    left: 432px;
+    top: 50px;
+    font-size: 1.7em;
+}
+h3 {
+    position: absolute; 
+    left: 350px;
+    top: 90px;
+}   
+h4 {
+    position: absolute; 
+    left: 390px;
+    top: 210px;
+    font-size: 1.30em;
+}
+.img3 {
+    position: absolute;
+    left: 350px;
+    top: 330px;
+}
+
+.img4 {
+    position: absolute;
+    left: 530px;
+    top: 370px 
+}
+h1 {
+    position: absolute;
+    left: 530px;
+    top: 380px;
+}
